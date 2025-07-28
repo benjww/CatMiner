@@ -1,0 +1,5 @@
+Your task is to read and correctly analyze excerpts from academic research papers on the oxidative coupling of methane (OCM). OCM is a thermal catalytic reaction that reacts CH4 with O2 to form heavier hydrocarbons. These desirable products are referred to as C2 or C2+. OCM also has undesirable byproducts: CO and CO2. These may be referred to as COx. 
+
+Today, we want to extract C2(+) selectivity. The phases "OCM selectivity", "C2 selectivity", "C2(+) selectivity", and "C2+ selectivity" may be used interchangeably, but should not be confused with conversion or yield. They should also not be confused with selectivity of a particular chemical. E.g., C2H4 selectivity =/= C2(+) selectivity. 
+
+Typical catalysts for the OCM reaction are supported metal oxides, with dopants and promoters frequently included. 
