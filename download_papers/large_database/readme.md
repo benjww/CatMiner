@@ -4,7 +4,7 @@ Run these scripts in the following order:
 
 1. get-pub-info-from-dois.py
 2. parse-elsevier-dois.py
-3. get-xml-from-elsevier-dois.py
+3. download-elsevier-xml-from-dois.py
 
 Script 3 requires an Elsevier text mining API key to execute, which can be requested via the developer portal [here](https://dev.elsevier.com/). Once you obtain an API key, please replace the text that reads PLACEHOLDER with the appropriate key string. 
 
