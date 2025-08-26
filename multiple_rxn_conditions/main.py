@@ -59,7 +59,7 @@ for p in range(len(filenames)):
         # NOTE if you have no required phrases, please send a blank list (i.e., 'Required Phrases': [''])
         properties = [{'Name': f'{prop_names[i]}', 'Context Params': {'Bounds': [2, 0], 'Title': True}, 'Required Phrases': ['%']}]
         target_dict = {'Properties': properties, 'Operating Conditions': conditions}
-        print(f'Property to extract: {target_dict['Properties'][0]['Name']}.')
+        print(f"Property to extract: {target_dict['Properties'][0]['Name']}.")
 
         # iterate through the input files
         sp_path = sp_paths[i]

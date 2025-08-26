@@ -54,7 +54,7 @@ for p in range(len(filenames)):
         properties = [{'Name': f'{prop_names[i]}', 'Context Params': {'Bounds': [2, 0], 'Title': True}, 'Required Phrases': ['%']}]
         conditions = [{'Name': 'reaction operating temperature', 'Context Params': {'Bounds': [6, 0], 'Title': False}, 'Required Phrases': [' K', '°C']}]
         target_dict = {'Properties': properties, 'Operating Conditions': conditions}
-        print(f'Property to extract: {target_dict['Properties'][0]['Name']}.')
+        print(f"Property to extract: {target_dict['Properties'][0]['Name']}.")
 
         # iterate through the input files
         sp_path = sp_paths[i]
