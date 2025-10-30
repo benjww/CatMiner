@@ -1,5 +1,0 @@
-Upon running, the main.py script here will normalize the OCM database extracted by CatMiner as described in the "Entity normalization" section of our manuscript. The raw database extracted by CatMiner is provided here as an input. We also provide the normalized database at [/all_databases/large_database/full-ocm-database-normalized.csv](https://github.com/benjww/CatMiner/blob/main/all_databases/large_database/full-ocm-database-normalized.csv)
-
-Llama 3.1 405B is employed to normalize the catalyst material names. It is called using the Amazon Bedrock service provided by Amazon Web Services. Documentation for this cloud service can be found [here](https://docs.aws.amazon.com/bedrock/). 
-
-Before running, you must replace the PLACEHOLDER text in the provided api.env file. The api.env file requires specifying the desired model ID, AWS Region, and two confidential API keys that can be requested upon creation of an AWS account. Model IDs and supported AWS Regions can be found [here](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html). 

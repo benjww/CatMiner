@@ -1,1 +1,0 @@
-These folders contain the handmade databases (used as rubrics for grading, as described in the "Text mining performance", "Abbreviation resolution", and "Entity normalization" sections) and the full OCM database generated in the "Generation of an OCM database" section. 

@@ -1,1 +1,0 @@
-After copying the 40 papers here, please remove this file before running main.py.
