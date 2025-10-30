@@ -1,9 +1,11 @@
 # CatMiner
 Distributed as part of the publication "Use of Large Language Models for Extracting and Analyzing Data from Heterogeneous Catalysis Literature" by Benjamin W. Walls and Suljo Linic.
 
-We executed this code entirely in Python 3.11.3 in macOS. In the future we intend to formalize the range of supported Python versions and operating systems. 
+We executed this code entirely in Python 3.11 in macOS. In the future we intend to formalize the range of supported Python versions and operating systems. 
 
-Please install required packages by running "pip install requirements.txt" before you begin.
+Code and results associated with the original publication can be found in paper_data/. Since then we have begun packaging the code to improve user-friendliness, and a more up-to-date tutorial notebook can be found in the examples/ directory. 
+
+Please install by navigating to this directory and running "pip install -e .[dev]"
 
 If you find our code or workflow to be useful, please cite the corresponding publication:
 

@@ -1,0 +1,8 @@
+Low-temperature catalytic oxidative coupling of methane in an electric field over a Ce–W–O catalyst system
+We examined oxidative coupling of methane (OCM) over various Ce–W–O catalysts at 423 K in an electric field.
+Ce2(WO4)3/CeO2 catalyst showed high OCM activity.
+In a periodic operation test over Ce2(WO4)3/CeO2 catalyst, C2 selectivity exceeded 60% during three redox cycles.
+However, Ce2(WO4)3/CeO2 catalyst without the electric field showed low activity, even at 1073 K: CH4 Conv., 6.0%; C2 Sel., 2.1%.
+A synergetic effect between the Ce2(WO4)3 structure and electric field created the reactive oxygen species for selective oxidation of methane.
+Results of XAFS, in-situ Raman and periodic operation tests demonstrated that OCM occurred as the lattice oxygen in Ce2(WO4)3 (short W–O bonds in distorted WO4 unit) was consumed.
+The consumed oxygen was reproduced by a redox mechanism in the electric field.
