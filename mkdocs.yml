@@ -1,7 +1,7 @@
-site_name: coolcode
-site_author: YourName
+site_name: CatMiner
+site_author: Benjamin Walls
 site_description: >-
-  This is the coolcode package!
+  This is the CatMiner package developed by Walls and Linic
 nav:
   - Home: index.md
   - Overview:
@@ -30,7 +30,7 @@ nav:
       - example_docs/about/conduct.md
       - example_docs/about/license.md
 
-repo_url: https://github.com/Quantum-Accelerators/coolcode/
+repo_url: https://github.com/benjww/CatMiner
 edit_uri: blob/main/docs/
 
 theme:

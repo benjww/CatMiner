@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "catminer"
+name = "CatMiner"
 description="A packaged form of the CatMiner workflow written by Walls and Linic."
 version = "0.0.1"
 readme = "README.md"
@@ -42,10 +42,10 @@ docs = [
 repository = "https://github.com/benjww/CatMiner"
 
 [tool.setuptools.package-data]
-catminer = ["py.typed"]
+CatMiner = ["py.typed"]
 
 [tool.pyright]
-include = ["catminer"]
+include = ["CatMiner"]
 exclude = ["**/__pycache__"]
 
 [tool.pytest.ini_options]
@@ -133,7 +133,7 @@ lint.unfixable = [
   "F841", # Removes unused variables
 ]
 lint.pydocstyle.convention = "numpy"
-lint.isort.known-first-party = ["catminer"]
+lint.isort.known-first-party = ["CatMiner"]
 lint.isort.required-imports = ["from __future__ import annotations"]
 lint.isort.split-on-trailing-comma=false
 extend-include = ["*.ipynb"]
