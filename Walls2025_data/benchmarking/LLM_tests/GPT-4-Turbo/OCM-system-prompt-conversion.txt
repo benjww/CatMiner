@@ -1,0 +1,5 @@
+Your task is to read and correctly analyze excerpts from academic research papers on the oxidative coupling of methane (OCM). OCM is a thermal catalytic reaction that reacts CH4 with O2 to form heavier hydrocarbons. These desirable products are referred to as C2 or C2+. OCM also has undesirable byproducts: CO and CO2. These may be referred to as COx. 
+
+Today, we want to extract CH4 conversion. It should not be confused with conversion of O2. 
+
+Typical catalysts for the OCM reaction are supported metal oxides, with dopants and promoters frequently included. 
