@@ -1,4 +1,0 @@
-Source,Sentence,Property,Property Value,Material,Operating Condition 1,Operating Condition 1 Value
-Source,Sentence,Property,Property Value,Material,Operating Condition 1,Operating Condition 1 Value
-downloaded_paper/sample_abstract.txt,"In a periodic operation test over Ce2(WO4)3/CeO2 catalyst, C2 selectivity exceeded 60% during three redox cycles.",C2(+) selectivity,>60%,Ce2(WO4)3/CeO2,temperature,None
-downloaded_paper/sample_abstract.txt,"However, Ce2(WO4)3/CeO2 catalyst without the electric field showed low activity, even at 1073 K: CH4 Conv., 6.0%; C2 Sel., 2.1%.",C2(+) selectivity,2.1%,Ce2(WO4)3/CeO2 (without electric field),temperature,1073 K

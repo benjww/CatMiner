@@ -1,4 +1,4 @@
-from catminer.functions import getexcerpt, write_log, prompt, read_sentences, filter_sentences, obtain_abbreviation_defs
+from catminer.multiturn_helpers import getexcerpt, write_log, prompt, read_sentences, filter_sentences, obtain_abbreviation_defs
 from catminer.prompts import (
     prompt1,
     prompt2,
