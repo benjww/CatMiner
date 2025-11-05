@@ -1,5 +1,5 @@
-from cat-miner.multiturn_helpers import getexcerpt, write_log, prompt, read_sentences, filter_sentences, obtain_abbreviation_defs
-from cat-miner.prompts import (
+from catmining.multiturn_helpers import getexcerpt, write_log, prompt, read_sentences, filter_sentences, obtain_abbreviation_defs
+from catmining.prompts import (
     prompt1,
     prompt2,
     prompt3,
