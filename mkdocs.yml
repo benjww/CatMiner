@@ -1,7 +1,7 @@
-site_name: CatMiner
+site_name: cat-miner
 site_author: Benjamin Walls
 site_description: >-
-  This is the CatMiner package developed by Walls and Linic
+  This is the cat-miner package developed by Walls and Linic
 nav:
   - Home: index.md
   - Overview:

@@ -5,7 +5,7 @@ We executed this code entirely in Python 3.11 in macOS. In the future we intend 
 
 Code and results associated with the original publication can be found in paper_data/. Since then we have begun packaging the code to improve user-friendliness, and a more up-to-date tutorial notebook can be found in the examples/ directory. 
 
-Please install by running "pip install CatMiner"
+Please install by running "pip install cat-miner"
 
 If you find our code or workflow to be useful, please cite the corresponding publication:
 
