@@ -1,1 +1,0 @@
-Before beginning, download the 40 papers in markup language format using the instructions and scripts provided in [download_papers/test_set/](https://github.com/benjww/text_mining_prep/tree/main/download_papers/test_set/). Then, copy them into the respective folders ("Elsevier_XMLs", "RSC_HTMLs", and "Springer_Nature_XMLs") and run parse.py. 

@@ -1,1 +1,0 @@
-Before beginning, download the 1029 papers in markup language format using the instructions and scripts provided in [download_papers/large_database/](https://github.com/benjww/text_mining_prep/tree/main/download_papers/large_database/). Then, copy them into the respective folders ("Elsevier_XMLs" and "RSC_HTMLs") and run parse.py.

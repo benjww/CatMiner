@@ -3,7 +3,7 @@ Distributed as part of the publication "Use of Large Language Models for Extract
 
 We executed this code entirely in Python 3.11 in macOS. In the future we intend to formalize the range of supported Python versions and operating systems. 
 
-Code and results associated with the original publication can be found in paper_data/. Since then we have begun packaging the code to improve user-friendliness, and a more up-to-date tutorial notebook can be found in the examples/ directory. 
+Code and results associated with the original publication can be found in Walls2025_data/. Since then we have begun packaging the code to improve user-friendliness, and more up-to-date tutorial notebooks can be found in the examples/ directory. Please post an issue or reach out if you run into any problems. 
 
 Please install by running "pip install catmining"
 
